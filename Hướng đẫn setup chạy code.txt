@@ -1,0 +1,7 @@
+link github: https://github.com/hoanggocm1/internship_test.git
+
+- Sau khi đã clone file github về rồi:
+	+ B1: Tạo database với tên : testphp 
+	+ B2: Import file database testphp vào database vừa tạo
+
+- Bây giờ có thể chạy file code với đường link : http://localhost/internship_test/index.php
